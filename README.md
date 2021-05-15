@@ -3,7 +3,6 @@
 
 - ARTICIFIAL INTELLIGENCE(AI)
 - Machine Learning(ML)
-- Computer Vision
 
 ##  _🌱 I’m currently learning..._
 
